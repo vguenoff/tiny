@@ -1,5 +1,5 @@
 ![npm](https://img.shields.io/npm/v/@vguenoff/tiny)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@vguenoff/tiny)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@vguenoff/tiny)
 
 ## Install
 
